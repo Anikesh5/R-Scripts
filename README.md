@@ -1,3 +1,2 @@
 # R-Scripts
-The feed for the scripts are the values which is provided on the basis of di or tri-nucleotide featured models. Nucleotide sequesces are analysed using those models.
-Those values are used to do several calculations and plot accordingly where the scripts are utilized. 
+The feed for the scripts is the values which are provided based on di or tri-nucleotide featured models. Nucleotide sequences are analysed using those models. Those values are used to do several calculations and plot accordingly where the scripts are utilized.
